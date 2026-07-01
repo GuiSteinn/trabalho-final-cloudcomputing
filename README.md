@@ -69,3 +69,6 @@ Esta base foi produzida com apoio de InteligÃªncia Artificial Generativa e deve 
 
 ## Observação de execução
 A API pode ser executada localmente com Python 3.12 ou superior.
+
+## Pipeline CI
+O workflow executa validacao de sintaxe e testes unitarios automaticamente.
