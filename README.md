@@ -66,3 +66,6 @@ README.md
 ## ObservaÃ§Ã£o sobre autoria e IA
 
 Esta base foi produzida com apoio de InteligÃªncia Artificial Generativa e deve ser estudada, adaptada e explicada pelo discente antes de qualquer entrega. Caso seja usada, o uso de IA deve ser identificado no RelatÃ³rio TÃ©cnico Final e na DeclaraÃ§Ã£o de Autoria, conforme o enunciado do trabalho.
+
+## Observação de execução
+A API pode ser executada localmente com Python 3.12 ou superior.
