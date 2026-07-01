@@ -75,3 +75,6 @@ O workflow executa validacao de sintaxe e testes unitarios automaticamente.
 
 ## Dados simulados
 Os registros ficam em arquivo JSON externo para facilitar manutencao e troca do tema.
+
+## Testes
+Os testes validam codigo HTTP, estrutura JSON, rota de status e caso de identificador inexistente.
