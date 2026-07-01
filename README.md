@@ -72,3 +72,6 @@ A API pode ser executada localmente com Python 3.12 ou superior.
 
 ## Pipeline CI
 O workflow executa validacao de sintaxe e testes unitarios automaticamente.
+
+## Dados simulados
+Os registros ficam em arquivo JSON externo para facilitar manutencao e troca do tema.
