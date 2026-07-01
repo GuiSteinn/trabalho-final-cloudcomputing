@@ -2,21 +2,21 @@
 
 Projeto-modelo de API REST com fluxo DevOps para a disciplina de Cloud Computing da UNIDAVI.
 
-> Ajuste este README ao seu tema individual antes da entrega. O tema usado nesta base é "chamados de suporte em nuvem".
+> Ajuste este README ao seu tema individual antes da entrega. O tema usado nesta base Ã© "chamados de suporte em nuvem".
 
 ## Tecnologias
 
 - Python 3.12
-- Biblioteca padrão `http.server`
-- Testes unitários com `unittest`
-- GitHub Actions para Integração Contínua
-- Docker para execução em container
+- Biblioteca padrÃ£o `http.server`
+- Testes unitÃ¡rios com `unittest`
+- GitHub Actions para IntegraÃ§Ã£o ContÃ­nua
+- Docker para execuÃ§Ã£o em container
 
 ## Rotas da API
 
-| Método | Rota | Descrição |
+| MÃ©todo | Rota | Descrção |
 |---|---|---|
-| GET | `/status` | Retorna nome, versão e status da aplicação. |
+| GET | `/status` | Retorna nome, versÃ£o e status da aplicaÃ§Ã£o. |
 | GET | `/chamados` | Retorna ao menos 10 chamados simulados. |
 | GET | `/chamados/{id}` | Retorna um chamado pelo identificador. |
 
@@ -63,11 +63,7 @@ Dockerfile
 README.md
 ```
 
-## Observação sobre autoria e IA
-
-Esta base foi produzida com apoio de Inteligência Artificial Generativa e deve ser estudada, adaptada e explicada pelo discente antes de qualquer entrega. Caso seja usada, o uso de IA deve ser identificado no Relatório Técnico Final e na Declaração de Autoria, conforme o enunciado do trabalho.
-
-## Observa��o de execu��o
+## Observação de execução
 A API pode ser executada localmente com Python 3.12 ou superior.
 
 ## Pipeline CI
