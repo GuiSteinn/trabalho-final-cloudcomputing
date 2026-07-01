@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "titulo": "Instância EC2 indisponível",
+    "servico": "Compute",
+    "prioridade": "alta",
+    "status": "em_atendimento",
+    "responsavel": "Equipe Cloud",
+    "tempo_estimado_horas": 4
+  },
+  {
+    "id": 2,
+    "titulo": "Falha de autenticação no painel",
+    "servico": "IAM",
+    "prioridade": "media",
+    "status": "aberto",
+    "responsavel": "Segurança",
+    "tempo_estimado_horas": 6
+  },
+  {
+    "id": 3,
+    "titulo": "Bucket S3 com política incorreta",
+    "servico": "Storage",
+    "prioridade": "alta",
+    "status": "em_atendimento",
+    "responsavel": "Governança",
+    "tempo_estimado_horas": 3
+  },
+  {
+    "id": 4,
+    "titulo": "Pipeline CI falhando em testes",
+    "servico": "DevOps",
+    "prioridade": "alta",
+    "status": "aberto",
+    "responsavel": "Desenvolvimento",
+    "tempo_estimado_horas": 2
+  },
+  {
+    "id": 5,
+    "titulo": "Latência elevada na API",
+    "servico": "Observabilidade",
+    "prioridade": "media",
+    "status": "em_analise",
+    "responsavel": "SRE",
+    "tempo_estimado_horas": 8
+  },
+  {
+    "id": 6,
+    "titulo": "Renovação de certificado TLS",
+    "servico": "Rede",
+    "prioridade": "media",
+    "status": "planejado",
+    "responsavel": "Infraestrutura",
+    "tempo_estimado_horas": 5
+  },
+  {
+    "id": 7,
+    "titulo": "Erro de permissão no deploy",
+    "servico": "CI/CD",
+    "prioridade": "alta",
+    "status": "resolvido",
+    "responsavel": "DevOps",
+    "tempo_estimado_horas": 1
+  },
+  {
+    "id": 8,
+    "titulo": "Banco de dados com conexões no limite",
+    "servico": "Database",
+    "prioridade": "critica",
+    "status": "em_atendimento",
+    "responsavel": "DBA",
+    "tempo_estimado_horas": 4
+  },
+  {
+    "id": 9,
+    "titulo": "Alerta de custo acima do previsto",
+    "servico": "FinOps",
+    "prioridade": "baixa",
+    "status": "aberto",
+    "responsavel": "Gestão Cloud",
+    "tempo_estimado_horas": 12
+  },
+  {
+    "id": 10,
+    "titulo": "Container reiniciando repetidamente",
+    "servico": "Kubernetes",
+    "prioridade": "critica",
+    "status": "em_analise",
+    "responsavel": "SRE",
+    "tempo_estimado_horas": 6
+  }
+]
